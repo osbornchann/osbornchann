@@ -8,5 +8,5 @@
 		<img src="https://img.shields.io/badge/Size-60kb-orange.svg">
 		<img src="https://img.shields.io/badge/Downloads-10K-red.svg">
 	<br><br>
-	<img src="https://github-readme-stats-gc8g.vercel.app/api?username=osbornchann&count_private=true&show_icons=true&theme=radical&cache_seconds=1800" alt="Osborn GitHub stats" align="center" />
+	<img src="https://github-readme-stats-gc8g.vercel.app/api?username=osbornchann&count_private=true&show_icons=true&theme=radical&cache_seconds=7200" alt="Osborn GitHub stats" align="center" />
 </div>
